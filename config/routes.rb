@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
   get 'order/index'
 
-  get 'order/create'
+  post 'order/create'
 
   get 'menu_item/index'
 
