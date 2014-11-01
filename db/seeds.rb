@@ -10,3 +10,6 @@ MenuItem.create(item: 'Guinness', category: 'Beverage', merchant: 'ad1993b2f6ab4
 MenuItem.create(item: 'Caesar Salad', category: 'Sides', merchant: 'ad1993b2f6ab45f7ba546c8889c40166', price:4.50)
 MenuItem.create(item: 'Chicken Wings', category: 'Appetizers', merchant: 'ad1993b2f6ab45f7ba546c8889c40166', price:8.99)
 MenuItem.create(item: 'Chocolate Cake', category: 'Desserts', merchant: 'ad1993b2f6ab45f7ba546c8889c40166', price:7.43)
+
+Order.create(menu_item_id: 2)
+Order.create(menu_item_id: 3)
