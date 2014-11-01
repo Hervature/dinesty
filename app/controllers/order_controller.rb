@@ -14,6 +14,6 @@ class OrderController < ApplicationController
 
   def create
     menu_item = params[:menu_item]
-    Order.create menu_item_id: menu_item
+    render json: Order.create menu_item_id: menu_item
   end
 end
