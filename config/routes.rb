@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'order/index'
+
+  get 'order/create'
+
   get 'menu_item/index'
 
   # The priority is based upon order of creation: first created -> highest priority.

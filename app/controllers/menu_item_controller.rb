@@ -1,6 +1,7 @@
 class MenuItemController < ApplicationController
   def index
-    @menu_items = MenuItem.all
-    render json: @menu_items
+    merchant = params[:merchant]
+    @menu_items = MenuItem.where merchant: merchant
+    render json: {'menu_items' => @menu_items}
   end
 end
