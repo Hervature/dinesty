@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141101200337) do
+ActiveRecord::Schema.define(version: 20141102092558) do
 
   create_table "menu_items", force: true do |t|
     t.string   "item"
@@ -20,6 +20,7 @@ ActiveRecord::Schema.define(version: 20141101200337) do
     t.float    "price"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.text     "description"
   end
 
   create_table "orders", force: true do |t|
