@@ -62,6 +62,3 @@ MenuItem.create(item: 'Vanilla Bean Cheesecake', category: 'Desserts', merchant:
 MenuItem.create(item: 'Salted Caramel Cake', category: 'Desserts', merchant: '9f065ae88c2e40be80c0d604eda7e6e0', price:6.19)
 MenuItem.create(item: 'Oreo Madness', category: 'Desserts', merchant: '', price:6.49)
 MenuItem.create(item: 'Chocolate Peanut Butter Pie', category: 'Desserts', merchant: '9f065ae88c2e40be80c0d604eda7e6e0', price:5.89)
-
-Order.create(menu_item_id: 2)
-Order.create(menu_item_id: 3)
