@@ -14,7 +14,6 @@ MenuItem.create(item: 'Mozzarella Sticks', category: 'Shareable Appetizers', mer
 MenuItem.create(item: 'Pepperoni Extreme', category: 'Pizza', merchant: '69596c1485f9422ea1c52b1526a86dd7', price:19.75)
 MenuItem.create(item: 'BJs Favorite', category: 'Pizza', merchant: '69596c1485f9422ea1c52b1526a86dd7', price:20.95)
 MenuItem.create(item: 'Chicken Bacon Ranch', category: 'Pizza', merchant: '69596c1485f9422ea1c52b1526a86dd7', price:20.95)
-MenuItem.create(item: 'Gourmet Five Meat', category: 'Pizza', merchant: '69596c1485f9422ea1c52b1526a86dd7', price:20.95)
 MenuItem.create(item: 'Mediterranean', category: 'Pizza', merchant: '69596c1485f9422ea1c52b1526a86dd7', price:20.95)
 
 MenuItem.create(item: 'BJs Brewhouse Burger', category: 'Handcrafted Burgers', merchant: '69596c1485f9422ea1c52b1526a86dd7', price:7.25)
@@ -24,7 +23,6 @@ MenuItem.create(item: 'Crispy Jalapeno Burger', category: 'Handcrafted Burgers',
 MenuItem.create(item: 'Bacon Cheeseburger', category: 'Handcrafted Burgers', merchant: '69596c1485f9422ea1c52b1526a86dd7', price:10.50)
 
 MenuItem.create(item: 'Angel Hair Classico', category: 'Pasta Favorites', merchant: '69596c1485f9422ea1c52b1526a86dd7', price:8.95)
-MenuItem.create(item: 'Grilled Chicken Pasta', category: 'Pasta Favorites', merchant: '69596c1485f9422ea1c52b1526a86dd7', price:14.25)
 MenuItem.create(item: 'Cajun Pasta', category: 'Pasta Favorites', merchant: '69596c1485f9422ea1c52b1526a86dd7', price:12.50)
 MenuItem.create(item: 'Tuscan Chicken Limone', category: 'Pasta Favorites', merchant: '69596c1485f9422ea1c52b1526a86dd7', price:13.95)
 MenuItem.create(item: 'Shrimp Scampi Pasta', category: 'Pasta Favorites', merchant: '69596c1485f9422ea1c52b1526a86dd7', price:16.25)
@@ -33,7 +31,6 @@ MenuItem.create(item: 'BJs Peanut Butter Smores', category: 'Desserts', merchant
 MenuItem.create(item: 'Peach and Candied Pecan Cobbler', category: 'Desserts', merchant: '69596c1485f9422ea1c52b1526a86dd7', price:6.50)
 MenuItem.create(item: 'Pizookie Trio', category: 'Desserts', merchant: '69596c1485f9422ea1c52b1526a86dd7', price:9.95)
 MenuItem.create(item: 'Salted Caramel Pizookie', category: 'Desserts', merchant: '69596c1485f9422ea1c52b1526a86dd7', price:6.95)
-MenuItem.create(item: 'BJs Baked Beignet', category: 'Desserts', merchant: '69596c1485f9422ea1c52b1526a86dd7', price:6.95)
 
 MenuItem.create(item: 'Buffalo Wings', category: 'Signature Appetizers', merchant: '9f065ae88c2e40be80c0d604eda7e6e0', price:9.79)
 MenuItem.create(item: 'Mozzarella Sticks', category: 'Signature Appetizers', merchant: '9f065ae88c2e40be80c0d604eda7e6e0', price:7.29)
